@@ -1,0 +1,179 @@
+*{margin:0; padding:0}
+
+header{
+	width: 100%;
+	height: 15vh;
+	border-style: ridge;
+	display: flex; justify-content:space-around;
+	align-items: center;
+	color:#f3f3f3;
+}
+.nav ul{
+	list-style: none;
+
+}
+.nav ul li{
+	display: inline;
+}
+.nav ul li a{
+	color: white;
+	background-color: blue;
+	font-size: 15px;
+	padding:7px 12px;
+	text-decoration:none;
+}
+.search button{
+	padding-bottom: 7px 20px;
+	background-color: grey;
+}
+.search input{
+	border-style: ridge;
+	width: 250px;
+	height: 20px;
+	border-color: blue;
+}
+.nav ul li a:hover{
+	color: white;
+	background-color: skyblue;
+}
+.logo img{
+	width: 250px;
+	height: 70px;
+}
+.menu{
+width: 100%;
+height: 25px;
+border-style: ridge;
+text-align: right;
+justify-content: space-around; 
+display: inline-flex;
+background-color: yellow;
+}
+.menu a{
+	text-decoration: none;
+	color: white;
+	background-color: blue;
+	font-size: 12px;
+	padding:6px 9px;
+}
+.content1{
+	background-color: blue;
+	width: 25%;
+	height: 200px;
+	text-align: center;
+	float: left;
+	border-style: ridge;
+}
+.content1 h3 a{
+	color: white;
+}
+.content2{
+	background-color: skyblue;
+	width: 48.75%;
+	height: 200px;
+	text-align: center;
+	float: center;
+	display: inline-flex;justify-content: space-around;
+	border-style: ridge;
+}
+.content2 img{
+    display: inline-flex;justify-content: space-around;
+    width: 48.75%;
+    height: 200px;
+}
+.content3{
+	background-color: blue;
+	width: 25%;
+	height: 200px;
+	text-align: center;
+	float: right;
+	border-style: ridge;
+}
+.content3 h3 a{
+	color: white;
+}
+.content4{
+	background-color: white;
+	width: 25%;
+	height: 400px;
+	text-align: center;
+	float:left;
+	border-style: ridge;
+}
+.content4 h2{
+   color: green;
+}
+.content4 ul li h4 a{
+	text-decoration: blink;
+}
+
+.content5{
+	background-color: skyblue;
+	width: 48.75%;
+	height: 400px;
+	text-align: center;
+	float: left;
+	border-style: ridge;
+}
+.content5 h2{
+   color: green;
+}
+.content6 ul{
+   list-style: none;
+}
+.content6{
+	background-color: white;
+	width: 25%;
+	height: 400px;
+	text-align: center;
+	float: left;
+	border-style: ridge;
+}
+.content6 h2{
+   color: green;
+}
+.content6 ul li a{
+   text-decoration: none;
+}
+.base{
+	width: 100%;
+	height:90px; 
+	border-style: ridge;
+	display: inline-flex;justify-content: space-around;
+}
+.base img{
+width: 80%;
+height: 75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

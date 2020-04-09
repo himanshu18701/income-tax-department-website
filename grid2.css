@@ -1,0 +1,8 @@
+h1{text-align:center;}
+.gridcontainer{ font-size:20;
+      display:grid;
+border:solid blue 4px;
+padding:200px;
+grid-template-columns:auto auto;
+justify-content:space-evenly;
+}

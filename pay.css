@@ -1,0 +1,122 @@
+*{margin:0; padding:0}
+
+header{
+	width: 100%;
+	height: 15vh;
+	border-style: ridge;
+	display: flex; justify-content:space-around;
+	align-items: center;
+	color: #f3f3f3;
+}
+.nav ul{
+	list-style: none;
+
+}
+.nav ul li{
+	display: inline;
+}
+.nav ul li a{
+	color: white;
+	background-color: blue;
+	font-size: 15px;
+	padding:7px 12px;
+	text-decoration:none;
+}
+.search button{
+	padding-bottom: 7px 20px;
+	background-color: grey;
+}
+.search input{
+	border-style: ridge;
+	width: 250px;
+	height: 20px;
+	border-color: blue;
+}
+.nav ul li a:hover{
+	color: white;
+	background-color: skyblue;
+}
+.logo img{
+	width: 250px;
+	height: 70px;
+}
+.menu{
+width: 100%;
+height: 20px;
+border-style: ridge;
+text-align: right;
+justify-content: space-around; 
+display: inline-flex;
+background-color: yellow;
+}
+.menu a{
+	text-decoration: none;
+	color: white;
+	background-color: blue;
+	font-size: 10px;
+	padding:5px 8px;
+}
+.content1{
+	background-color: white;
+	width: 10%;
+	height: 100px;
+	float: left;
+}
+.content4{
+	background-color: white;
+	width: 10%;
+	height: 300px;
+	
+}
+.content2{
+	background-color: skyblue;
+	width: 80%;
+	height: 400px;
+	float: left;
+	text-align: center;
+}
+.content2 input{
+    width: 15%;
+    height: 30px
+}
+.content2 button{
+	width: 7%;
+	height:30px;
+	background-color: blue;
+	color: white;
+	padding: 5px;
+}
+.content3{
+	background-color:white;
+	width: 10%;
+	height: 100px;
+}
+.base{
+	width: 100%;
+	height:90px; 
+	border-style: ridge;
+	display: inline-flex;justify-content: space-around;
+}
+.base img{
+width: 80%;
+height: 75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
